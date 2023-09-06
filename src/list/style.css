@@ -1,0 +1,19 @@
+.list-label-item{
+    
+    background-color: rgb(52, 175, 7);
+    color: black;
+    padding: 2px 5px;
+    margin: 2px;
+
+}
+
+.list-item {
+    margin: 3px 5px 10px 30px;
+    border: 1px solid rgb(188, 188, 188);
+
+}
+
+.list-item.list-description{
+    color: rgb(105, 41, 41);
+    margin-bottom: 10px;
+}
